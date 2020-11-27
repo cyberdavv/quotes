@@ -1,0 +1,72 @@
+{
+    "quotes":[
+
+        {"content": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        "author": "Albert Einstein",
+        "rating": 24498},
+
+        {"content": " Im selfish impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can t handle me at my worst, then you sure as hell don t deserve me at my best.",
+        "author": "Marilyn Monroe",
+        "rating": 152895},
+            
+        {"content": "Be yourself; everyone else is already taken.",
+        "author": "Oscar Wilde",
+        "rating": 142589 },
+       
+        {"content": "Two things are infinite: the universe and human stupidity; and I m not sure about the universe.",
+        "author": "Albert Einstein",
+        "rating": 134443 },
+
+        {"content": "So many books, so little time.",
+        "author": "Frank Zappa",
+        "rating": 130804 },
+
+        {"content": "A room without books is like a body without a soul.",
+        "author" : "Marcus Tullius Cicero",
+        "rating" : 122451 },
+
+        {"content": "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
+        "author" : "Bernard M. Baruch",
+        "rating" : 122374 },
+
+        {"content": "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
+        "author": "Dr. Seuss",
+        "rating": 116961 }, 
+        
+        {"content": "You've gotta dance like there's nobody watching, Love like you'll never be  hurt, Sing like there's nobody listening, And live like it's heaven on earth." ,
+        "author" : "William W. Purkey",
+        "rating" : 120230},
+        
+        {"content": "You only live once, but if you do it right, once is enough.",
+        "author": "Mae West",
+        "rating": 109707},
+           
+        {"content": "Be the change that you wish to see in the world.",
+        "author": "Mahatma Gandhi",
+        "rating": 108087},
+             
+        {"content": "Iam so clever that sometimes I don't understand a single word of what I am saying",
+        "author":  "Oscar Wilde",
+        "rating":  68138},
+
+        {"content": "To live is the rarest thing in the world. Most people exist, that is all.",
+        "author": "Oscar Wilde",
+        "rating": 75480},
+
+        {"content": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+        "author": "Mahatma Gandhi",
+        "rating": 73781},
+
+        {"content": "An eye for an eye will only make the whole world blind.",
+        "author": "Mahatma Gandhi",
+        "rating": 13442},
+            
+        {"content": "If you can't explain it to a six year old, you don't understand it yourself.",
+        "author": "Albert Einstein",
+        "rating": 30031},
+
+        {"content": "Logic will get you from A to Z; imagination will get you everywhere.",
+        "author": "Albert Einstein",
+        "rating": 24091}
+    ]
+}
