@@ -104,9 +104,3 @@ top_ten = []
 top_qt = []
 citas = []
 score = []
-
-<<<<<<< HEAD
-#END------intern functions ---------------------
-=======
-#END------intern functions ---------------------
->>>>>>> e82c74dd34db9a81e130a2afd1270337d5a5cfdb
