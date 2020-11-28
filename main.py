@@ -4,7 +4,7 @@ from flask import Flask, jsonify, request, redirect
 app = Flask(__name__)
 
 #----------------PRINT ALL QUOTES -----------------------------
-@app.route('/', methods=['GET'])
+@app.route('/all-quotes', methods=['GET'])
 def get_all():
   return jsonify(quotes)
 
